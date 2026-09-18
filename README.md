@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,100:f9fafb&height=150&section=header&text=Samir%20Shaikh&fontSize=40&fontColor=000000&animation=fadeIn&fontAlignY=40&desc=Backend%20Engineer%20%20•%20%20AI%20Systems%20%20•%20%20Node.js&descAlignY=68&descSize=15" alt="Samir Shaikh header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,100:f9fafb&height=150&section=header&text=Samir%20Shaikh&fontSize=40&fontColor=000000&animation=fadeIn&fontAlignY=40&desc=AI-Enabled%20Full%20Stack%20Developer%20%20•%20%20Backend-First%20%20•%20%20Node.js%20%2B%20React&descAlignY=68&descSize=14" alt="Samir Shaikh header" />
 </p>
 
 <p align="center">
   <a href="https://samir-portfolio-dev.vercel.app/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/samir-shaikh-760b932a8" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/samirshaikh-dev/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:22amtics312@gmail.com">
+  <a href="mailto:shaikh.samir.work@gmail.com">
     <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://drive.google.com/file/d/1WGl4JPgT8sdWz-LcdwI3TNzeMgsCbEOr/view?usp=sharing" target="_blank" rel="noreferrer">
@@ -18,31 +18,33 @@
 </p>
 
 <p align="center">
-  <sub>AI BACKEND ENGINEER · AI-INTEGRATED SYSTEMS · MICROSERVICES · OBSERVABILITY</sub>
+  <sub>AI-ENABLED FULL STACK DEVELOPER · BACKEND-FIRST · MULTI-AGENT SYSTEMS · OBSERVABILITY</sub>
 </p>
 
-<h1 align="center">I build backend systems that can reason, route, and scale.</h1>
+<h1 align="center">I build full-stack products where the backend does the reasoning.</h1>
 
 <p align="center">
-  Backend engineer focused on Node.js systems where APIs, queues, caching, and LLM workflows come together
-  to process real business operations — from classification and prioritization to event-driven execution.
+  Full-stack developer, backend-first, focused on Node.js systems where APIs, queues, caching, and LLM
+  workflows come together to process real business operations — from classification and prioritization
+  to retrieval-grounded answers and event-driven execution — with the React and React Native interfaces
+  that sit on top of them.
 </p>
 
 <p align="center">
-  <strong>Currently building:</strong> a multi-agent AI ticket triage platform with Kafka, BullMQ, Redis, GPT-4, Claude, and end-to-end observability.
+  <strong>Currently building:</strong> a multi-agent AI ticket triage platform with BullMQ, Redis, LLM-based classification, and end-to-end observability.
 </p>
 
 ---
 
 ## What I Bring
 
-I help teams build backend systems that are fast, reliable, and ready for AI-powered workflows.
+I help teams build full-stack systems that are fast, reliable, and ready for AI-powered workflows.
 
+- Full-stack ownership: I ship the backend and the interface that consumes it — Node.js/GraphQL APIs paired with React, Next.js, and React Native frontends.
 - Systems that scale: APIs, caching, and observability built to handle growth without breaking.
+- AI-accelerated workflow: I use Claude, Cursor, and AI-native IDEs daily to move faster on architecture, implementation, and debugging, without lowering the bar for correctness.
+- AI that actually works: LLMs and RAG pipelines used as backend components for classification, retrieval, and decision support — not just chat interfaces.
 - Production mindset: I design for reliability, debugging, and graceful failure from day one.
-- AI that actually works: LLMs used as backend components for classification, routing, and decision support — not just chat interfaces.
-- Clear communication: I write clean code, clear docs, and explain trade-offs in simple terms.
-- Ownership: I take problems end-to-end, from requirements and design to deployment and monitoring.
 
 ---
 
@@ -69,7 +71,7 @@ I help teams build backend systems that are fast, reliable, and ready for AI-pow
   </tr>
   <tr>
     <td align="center">BullMQ</td>
-    <td align="center">LLM Workflows</td>
+    <td align="center">RAG / pgvector</td>
   </tr>
   <tr>
     <td align="center">Redis</td>
@@ -77,12 +79,11 @@ I help teams build backend systems that are fast, reliable, and ready for AI-pow
   </tr>
   <tr>
     <td align="center">GraphQL</td>
-    <td align="center">Rest Api</td>
+    <td align="center">REST API</td>
   </tr>
 </table>
 
 </div>
-
 
 ## Stack
 
@@ -120,60 +121,75 @@ I help teams build backend systems that are fast, reliable, and ready for AI-pow
 
 | 🧩 **Backend Engineering** | 🤖 **AI Systems** | ☁️ **Deployment** |
 |:---|:---|:---|
-| REST APIs | LLM Integration | Docker |
-| GraphQL APIs | Prompt Engineering | GitHub Actions |
-| Authentication | AI Automation | Vercel |
-| Database Design | API Integrations | Linux |
+| REST APIs | RAG Pipelines | Docker |
+| GraphQL APIs | Vector Search (pgvector) | GitHub Actions |
+| Authentication | LLM API Integration | Vercel |
+| Database Design | Prompt Engineering | Linux |
 | Microservices | Workflow Orchestration | GitHub |
+| Testing (Jest) | AI-Assisted Development | |
 
 </div>
 
 ---
 
+## Experience
+
+**Backend Developer Intern** — Logicwind (Sep 2025 – May 2026)
+Cut API response times by ~30% through PostgreSQL query optimization, schema migrations, and Redis caching; built async Node.js services in an event-driven microservices architecture.
+
+**Full Stack Engineer Intern** — Xira Infotech (Aug 2026 – Sep 2026)
+Owned a job portal end-to-end — PostgreSQL schema through the Next.js UI — with RBAC auth, admin dashboards, real-time notifications, and payment gateway integration.
+
+---
+
 ## Selected Projects
 
-### AI Customer Ticket Triage
-<sub>Node.js · TypeScript · GraphQL · Kafka · BullMQ · Redis · Docker · GPT-4 · Claude</sub>
+### AI Customer Ticket Triage — Full-Stack Support Automation Platform
+<sub>Node.js · TypeScript · Next.js · React · GraphQL · PostgreSQL · Sequelize · Redis · BullMQ · Docker</sub>
 
-A multi-agent support automation platform built around six microservices for ticket intake, AI classification, prioritization, retries, scheduling, and real-time visibility.  
-It combines Kafka and BullMQ for resilient message flow, with OpenTelemetry, Prometheus, and Grafana for end-to-end operational insight.
+A multi-service support automation platform: six Express.js microservices handling ticket intake, LLM-based classification, prioritization, retries, and scheduling, paired with a Next.js/React dashboard for real-time SLA monitoring and live ticket sync over HTTP long polling. Docker Compose, Prometheus, and Grafana provide distributed tracing across every service.
 
-[View repository](https://github.com/ShaikhSamir786/ai-customer-ticket-manager)
+[View repository](https://github.com/samirshaikh-dev/ai-customer-ticket-manager)
 
-### Sahara Tyre
-<sub>Node.js · Express · React Native · Expo · GitHub Actions</sub>
+### Eventify — Full-Stack Event Management Platform
+<sub>React · Vite · Node.js · Express · TypeScript · MongoDB · GraphQL (Apollo) · Tailwind CSS</sub>
 
-A WhatsApp campaign platform built for a real business, featuring concurrent messaging, randomized delay handling, session persistence, and a mobile operator workflow.  
-It also includes CI/CD automation and deployment processes for reliable delivery.
+A full-stack event management platform: a fully responsive React/Vite/Tailwind + shadcn/ui client with automated email invitations, backed by a MongoDB/Mongoose GraphQL API with RBAC, JWT sessions, bcrypt hashing, and OTP verification.
 
-[View repository](https://github.com/ShaikhSamir786/Sahara-Tyre----WhatsApp-Promotional-Campaign-Platform)
+[View repository](https://github.com/samirshaikh-dev/eventify)
 
-### Eventifyy
-<sub>Node.js · GraphQL · PostgreSQL · Sequelize · React</sub>
+### Sahara Tyre — WhatsApp Promotional Campaign Platform
+<sub>Node.js · Express · React Native · Expo · TypeScript · WhatsApp Web API · Google Sheets API · GitHub Actions</sub>
 
-An event management platform with role-based access control, OTP verification, dual-layer rate limiting, and structured full-stack workflows.  
-The project emphasizes secure API design, clean architecture, and strong backend integration.
+A high-throughput WhatsApp marketing platform: a React Native (Expo) mobile client consuming Node.js/Express REST APIs, automating personalized bulk messaging with rate-limited batch processing against a Google Sheets-backed API. Session state syncs in real time via Socket.io, with zero-downtime deploys on GitHub Actions and Render.
 
-[View repository](https://github.com/ShaikhSamir786/eventify)
+[View repository](https://github.com/samirshaikh-dev/Sahara-Tyre----WhatsApp-Promotional-Campaign-Platform)
+
+### RAG Assistant — Production Retrieval Pipeline
+<sub>Node.js · TypeScript · PostgreSQL + pgvector · Gemini Embeddings</sub>
+
+A retrieval-augmented assistant indexing thousands of document chunks with PostgreSQL's pgvector extension and Gemini embeddings, using cosine-distance filtering to keep answers grounded and reduce hallucinations.
+
+[Live on my portfolio](https://samir-portfolio-dev.vercel.app/)
 
 ---
 
 ## GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShaikhSamir786&theme=github" alt="GitHub Profile Summary" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samirshaikh-dev&theme=github" alt="GitHub Profile Summary" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShaikhSamir786&show_icons=true&hide_border=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=samirshaikh-dev&show_icons=true&hide_border=true" alt="GitHub Stats" height="165">
 </p>
 
 ---
 
 ## Open To
 
-Backend Engineer · AI Backend Engineer · AI SDE · Platform Engineer · AI Full Stack Developer  
-Ahmedabad · Hyderabad · Surat · Remote
+AI-Enabled Full Stack Developer (Backend-First) · Backend Engineer · AI Backend Engineer · Node.js Developer
+Vapi · Surat · Ahmedabad · Hyderabad · Remote
 
 ---
 
@@ -183,10 +199,10 @@ Ahmedabad · Hyderabad · Surat · Remote
   <a href="https://samir-portfolio-dev.vercel.app/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/samir-shaikh-760b932a8" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/samirshaikh-dev/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:22amtics312@gmail.com">
+  <a href="mailto:shaikh.samir.work@gmail.com">
     <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://drive.google.com/file/d/1WGl4JPgT8sdWz-LcdwI3TNzeMgsCbEOr/view?usp=sharing" target="_blank" rel="noreferrer">
