@@ -1,76 +1,75 @@
+
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F7F8F2,100:F7F8F2&height=160&section=header&text=Samir%20Shaikh&fontSize=42&fontColor=0A0A0A&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%2B%20Node.js%20%7C%20Backend%20%2B%20AI&descAlignY=68&descSize=13&descColor=5F6368&stroke=B8FF00&strokeWidth=3" alt="Samir Shaikh" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F7F8F2,100:F7F8F2&height=160&section=header&text=Samir%20Shaikh&fontSize=42&fontColor=0A0A0A&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%2B%20Node.js%20%7C%20Backend%20%2B%20AI&descAlignY=68&descSize=13&descColor=5F6368&stroke=B8FF00&strokeWidth=3" alt="Samir Shaikh Header" />
 
 </p>
 
 <p align="center">
 
-<a href="https://samir-portfolio-dev.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-F7F8F2?style=for-the-badge&logo=vercel&logoColor=0A0A0A&labelColor=B8FF00" />
+<a href="https://samir-portfolio-dev.vercel.app/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Portfolio-F7F8F2?style=for-the-badge&logo=vercel&logoColor=0A0A0A&labelColor=B8FF00" alt="Portfolio" />
 </a>
 
-<a href="https://www.linkedin.com/in/samirshaikh-dev/">
-<img src="https://img.shields.io/badge/LinkedIn-F7F8F2?style=for-the-badge&logo=linkedin&logoColor=0A0A0A&labelColor=B8FF00" />
+<a href="https://www.linkedin.com/in/samirshaikh-dev/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/LinkedIn-F7F8F2?style=for-the-badge&logo=linkedin&logoColor=0A0A0A&labelColor=B8FF00" alt="LinkedIn" />
 </a>
 
 <a href="mailto:shaikh.samir.work@gmail.com">
-<img src="https://img.shields.io/badge/Email-F7F8F2?style=for-the-badge&logo=gmail&logoColor=0A0A0A&labelColor=B8FF00" />
+<img src="https://img.shields.io/badge/Email-F7F8F2?style=for-the-badge&logo=gmail&logoColor=0A0A0A&labelColor=B8FF00" alt="Email" />
 </a>
 
-<a href="https://drive.google.com/file/d/1WGl4JPgT8sdWz-LcdwI3TNzeMgsCbEOr/view?usp=sharing">
-<img src="https://img.shields.io/badge/Resume-F7F8F2?style=for-the-badge&logo=googledrive&logoColor=0A0A0A&labelColor=B8FF00" />
+<a href="https://drive.google.com/file/d/1WGl4JPgT8sdWz-LcdwI3TNzeMgsCbEOr/view?usp=sharing" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Resume-F7F8F2?style=for-the-badge&logo=googledrive&logoColor=0A0A0A&labelColor=B8FF00" alt="Resume" />
 </a>
 
-</p>
-
----
-
-<h1 align="center">I build full-stack products, not just features.</h1>
-
-<p align="center">
-Full Stack Developer focused on <strong>React, Node.js, PostgreSQL, APIs, and AI-powered applications.</strong>
-<br/>
-I enjoy turning real business requirements into working products — from database and backend architecture to the interface users actually interact with.
 </p>
 
 <p align="center">
-<strong>Currently open to Full Stack Developer & Backend Developer opportunities.</strong>
+
+<img src="https://img.shields.io/badge/FULL--STACK%20DEVELOPER-B8FF00?style=flat-square&labelColor=F7F8F2&color=B8FF00" />
+<img src="https://img.shields.io/badge/REACT%20%2B%20NODE.JS-B8FF00?style=flat-square&labelColor=F7F8F2&color=B8FF00" />
+<img src="https://img.shields.io/badge/BACKEND%20%2B%20AI-B8FF00?style=flat-square&labelColor=F7F8F2&color=B8FF00" />
+
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👋 Hi, I'm Samir
 
-I'm a **Full Stack Developer with a backend-first approach**.
+I'm a **Full Stack Developer** with a backend-first approach, focused on building practical products with **React, Node.js, PostgreSQL, and AI-powered technologies**.
 
-My experience includes building and working on:
+I enjoy working across the full development lifecycle — from database design and backend architecture to APIs, frontend interfaces, integrations, and deployment.
 
-🔹 Full-stack web applications  
-🔹 REST & GraphQL APIs  
-🔹 PostgreSQL & MongoDB databases  
-🔹 Authentication & RBAC systems  
-🔹 Redis & background job processing  
-🔹 AI / LLM integrations  
-🔹 RAG & vector search  
-🔹 Responsive React applications  
-🔹 Automation and API integrations
-
-I don't just focus on writing code — I care about **how the pieces work together as a product.**
+I’m particularly interested in **backend engineering, AI-powered applications, automation, and solving real business problems through software.**
 
 ---
 
-## ⚡ What You Can Expect From Me
+## 🎯 Currently Looking For
 
-| Strength                    | What it means                                                                  |
-| --------------------------- | ------------------------------------------------------------------------------ |
-| **Full-Stack Ownership**    | Comfortable working from database → API → frontend                             |
-| **Backend Thinking**        | Focus on clean APIs, data flow, performance and reliability                    |
-| **Real Project Experience** | Built applications involving authentication, dashboards, APIs and integrations |
-| **AI Integration**          | Experience connecting LLMs, RAG and vector search with applications            |
-| **Problem Solving**         | Comfortable understanding a requirement and turning it into an implementation  |
-| **Fast Learner**            | Comfortable picking up new tools when the project requires them                |
+I'm currently open to opportunities as a:
 
+- **Full Stack Developer**
+- **Junior Full Stack Developer**
+- **Backend Developer**
+- **Node.js Developer**
+- **AI-Enabled Full Stack Developer**
+
+I'm looking for an environment where I can contribute to **real products, work on meaningful engineering problems, take ownership of features, and continue growing as a developer.**
+
+📍 **Open to:** Vapi · Surat · Ahmedabad · Hyderabad · Remote
+
+---
+
+## ⚡ What I Bring
+
+| Strength | What I Bring |
+|---|---|
+| **Full-Stack Ownership** | I work across the application — from database and backend APIs to the frontend interface users interact with. |
+| **Backend Thinking** | I care about API design, database structure, performance, caching, asynchronous workflows, and reliability. |
+| **Real Project Experience** | I've worked on authentication, RBAC, dashboards, APIs, databases, notifications, payment integrations, and automation workflows. |
+| **AI Integration** | I've worked with LLM APIs, RAG pipelines, vector search, classification workflows, and AI-assisted development. |
+| **Production Mindset** | I focus on building systems that are maintainable, observable, debuggable, and designed with failure cases in mind. |
 ---
 
 ## 💼 Experience
@@ -79,88 +78,87 @@ I don't just focus on writing code — I care about **how the pieces work togeth
 
 **Sep 2025 – May 2026**
 
-Worked on backend systems and performance-focused engineering.
-
-* Improved API response times by approximately **30%**
-* Optimized PostgreSQL queries and database operations
-* Worked with Redis caching
-* Built asynchronous Node.js services
-* Worked within an event-driven microservices architecture
+- Improved API response times by approximately **30%**
+- Optimized PostgreSQL queries and database operations
+- Worked with PostgreSQL schema migrations
+- Implemented Redis caching
+- Built asynchronous Node.js services
+- Worked within an event-driven microservices architecture
 
 ### Full Stack Engineer Intern — Xira Infotech
 
 **Aug 2026 – Sep 2026**
 
-Worked on a complete job portal application across backend and frontend.
-
-* Designed PostgreSQL-backed application flows
-* Implemented authentication and RBAC
-* Worked on admin dashboards
-* Integrated real-time notifications
-* Worked with payment gateway integration
-* Connected backend services with the frontend experience
+- Worked on a full-stack job portal application
+- Worked across PostgreSQL-backed backend systems and frontend interfaces
+- Implemented authentication and role-based access control
+- Worked on admin dashboards
+- Integrated real-time notifications
+- Worked with payment gateway integration
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 🤖 AI Customer Ticket Triage
 
-**Node.js · TypeScript · React · Next.js · GraphQL · PostgreSQL · Redis · BullMQ · Docker**
+**Node.js · TypeScript · Next.js · React · GraphQL · PostgreSQL · Redis · BullMQ · Docker**
 
-A support automation platform designed to process customer tickets using AI.
+A full-stack support automation platform designed to process customer tickets using AI-powered classification and prioritization.
 
-**Built around:**
+**Key areas:**
 
-* AI ticket classification
-* Priority detection
-* Background processing
-* Redis-based workflows
-* Multiple backend services
-* SLA monitoring dashboard
-* Observability with Prometheus & Grafana
+- LLM-based ticket classification
+- Ticket prioritization
+- Background job processing with BullMQ
+- Redis-based workflows
+- Multiple Express.js services
+- SLA monitoring dashboard
+- Real-time ticket synchronization
+- Prometheus & Grafana observability
+- Docker-based development environment
 
-👉 **[View Repository](https://github.com/samirshaikh-dev/ai-customer-ticket-manager)**
+👉 [View Repository](https://github.com/samirshaikh-dev/ai-customer-ticket-manager)
 
 ---
 
-### 🎫 Eventify
+### 🎫 Eventify — Event Management Platform
 
-**React · Node.js · Express · TypeScript · MongoDB · GraphQL · Tailwind**
+**React · Vite · Node.js · Express · TypeScript · MongoDB · GraphQL · Tailwind CSS**
 
-A full-stack event management platform with authentication, RBAC, event management, email invitations and OTP verification.
+A full-stack event management platform with event management, authentication, RBAC, email invitations, JWT sessions, bcrypt hashing, and OTP verification.
 
-👉 **[View Repository](https://github.com/samirshaikh-dev/eventify)**
+👉 [View Repository](https://github.com/samirshaikh-dev/eventify)
 
 ---
 
 ### 📱 Sahara Tyre — WhatsApp Campaign Platform
 
-**Node.js · Express · React Native · TypeScript · WhatsApp Web API**
+**Node.js · Express · React Native · Expo · TypeScript · WhatsApp Web API · Google Sheets API**
 
-A platform for automating personalized WhatsApp promotional campaigns.
+A WhatsApp promotional campaign platform for automating personalized bulk messaging.
 
-**Includes:**
+**Key areas:**
 
-* Automated messaging
-* Batch processing
-* Rate limiting
-* Google Sheets integration
-* REST APIs
-* Socket.io communication
-* Automated deployment
+- Personalized bulk messaging
+- Rate-limited batch processing
+- React Native mobile application
+- Node.js / Express REST APIs
+- Google Sheets API integration
+- Socket.io communication
+- Automated deployment with GitHub Actions
 
-👉 **[View Repository](https://github.com/samirshaikh-dev/Sahara-Tyre----WhatsApp-Promotional-Campaign-Platform)**
+👉 [View Repository](https://github.com/samirshaikh-dev/Sahara-Tyre----WhatsApp-Promotional-Campaign-Platform)
 
 ---
 
-### 🧠 RAG Assistant
+### 🧠 RAG Assistant — Retrieval Pipeline
 
-**Node.js · TypeScript · PostgreSQL · pgvector · Gemini**
+**Node.js · TypeScript · PostgreSQL · pgvector · Gemini Embeddings**
 
-A retrieval-augmented AI assistant that uses vector search to retrieve relevant document information and generate grounded responses.
+A retrieval-augmented assistant that indexes document chunks using PostgreSQL and pgvector, then uses vector similarity search to retrieve relevant information for grounded responses.
 
-👉 **[View on Portfolio](https://samir-portfolio-dev.vercel.app/)**
+👉 [View on Portfolio](https://samir-portfolio-dev.vercel.app/)
 
 ---
 
@@ -169,48 +167,58 @@ A retrieval-augmented AI assistant that uses vector search to retrieve relevant 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,sql" />
+<img src="https://skillicons.dev/icons?i=ts,js,sql&theme=light" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=light" />
 </p>
 
-### Backend
+### Backend & APIs
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,graphql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql&theme=light" />
 </p>
 
-### Database & Infrastructure
+### Databases & Caching
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,linux" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,redis&theme=light" />
 </p>
 
-### Development & Deployment
+### DevOps & Deployment
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel" />
+<img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,linux,vercel&theme=light" />
 </p>
+
+### Additional
+
+| Backend & Architecture | AI & Engineering |
+|---|---|
+| REST APIs | RAG / pgvector |
+| GraphQL | LLM API Integration |
+| Authentication | Prompt Engineering |
+| RBAC | AI-Assisted Development |
+| Microservices | Workflow Orchestration |
+| BullMQ | Testing with Jest |
+| Kafka | | OpenTelemetry | 
+| Redis | | Prometheus | |
+| Grafana | |``
 
 ---
 
-## 🎯 Currently Looking For
+## 📊 GitHub Analytics
 
-**Full Stack Developer · Junior Full Stack Developer · Backend Developer · Node.js Developer**
+<p align="center">
 
-I'm looking for an opportunity where I can:
+<img src="https://github-readme-stats.vercel.app/api?username=samirshaikh-dev&show_icons=true&hide_border=false&bg_color=F7F8F2&title_color=0A0A0A&icon_color=0A0A0A&text_color=5F6368&border_color=B8FF00" alt="GitHub Stats" height="165" />
 
-* Build production applications
-* Work with experienced developers
-* Take ownership of real features
-* Improve my engineering skills
-* Contribute to products that solve real problems
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirshaikh-dev&layout=compact&hide_border=false&bg_color=F7F8F2&title_color=0A0A0A&text_color=5F6368&border_color=B8FF00" alt="Top Languages" height="165" />
 
-**Open to:** Vapi · Surat · Ahmedabad · Hyderabad · Remote
+</p>
 
 ---
 
@@ -218,20 +226,22 @@ I'm looking for an opportunity where I can:
 
 <p align="center">
 
-<a href="https://samir-portfolio-dev.vercel.app/">
-<img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-B8FF00?style=for-the-badge&labelColor=0A0A0A&color=B8FF00" />
+<a href="https://samir-portfolio-dev.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-B8FF00?style=for-the-badge&labelColor=0A0A0A&color=B8FF00" alt="Portfolio" />
 </a>
 
-<a href="https://www.linkedin.com/in/samirshaikh-dev/">
-<img src="https://img.shields.io/badge/LINKEDIN-B8FF00?style=for-the-badge&labelColor=0A0A0A&color=B8FF00" />
+<a href="https://www.linkedin.com/in/samirshaikh-dev/" target="_blank">
+<img src="https://img.shields.io/badge/LINKEDIN-B8FF00?style=for-the-badge&labelColor=0A0A0A&color=B8FF00" alt="LinkedIn" />
 </a>
 
 <a href="mailto:shaikh.samir.work@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT%20ME-B8FF00?style=for-the-badge&labelColor=0A0A0A&color=B8FF00" />
+<img src="https://img.shields.io/badge/CONTACT%20ME-B8FF00?style=for-the-badge&labelColor=0A0A0A&color=B8FF00" alt="Email" />
 </a>
 
 </p>
 
 <p align="center">
-<strong>Building. Learning. Shipping.</strong>
+
+<strong>Building useful products. Learning continuously. Solving real problems.</strong>
+
 </p>
