@@ -1,30 +1,27 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,100:0A0A0A&height=160&section=header&text=Samir%20Shaikh&fontSize=42&fontColor=B8FF00&animation=fadeIn&fontAlignY=38&desc=AI-Enabled%20Full%20Stack%20Developer%20%20•%20%20Backend-First%20%20•%20%20Node.js%20%2B%20React&descAlignY=68&descSize=13&descColor=F7F8F2" alt="Samir Shaikh Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F7F8F2,100:F7F8F2&height=160&section=header&text=Samir%20Shaikh&fontSize=42&fontColor=0A0A0A&animation=fadeIn&fontAlignY=38&desc=AI-Enabled%20Full%20Stack%20Developer%20%20•%20%20Backend-First%20%20•%20%20Node.js%20%2B%20React&descAlignY=68&descSize=13&descColor=5F6368&stroke=B8FF00&strokeWidth=3" alt="Samir Shaikh Header" />
 </p>
 
 <p align="center">
   <a href="https://samir-portfolio-dev.vercel.app/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=B8FF00" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-F7F8F2?style=for-the-badge&logo=vercel&logoColor=0A0A0A&labelColor=B8FF00" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/samirshaikh-dev/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=B8FF00" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-F7F8F2?style=for-the-badge&logo=linkedin&logoColor=0A0A0A&labelColor=B8FF00" alt="LinkedIn" />
   </a>
   <a href="mailto:shaikh.samir.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=B8FF00" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-F7F8F2?style=for-the-badge&logo=gmail&logoColor=0A0A0A&labelColor=B8FF00" alt="Email" />
   </a>
   <a href="https://drive.google.com/file/d/1WGl4JPgT8sdWz-LcdwI3TNzeMgsCbEOr/view?usp=sharing" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Resume-0A0A0A?style=for-the-badge&logo=googledrive&logoColor=B8FF00" alt="Resume" />
+    <img src="https://img.shields.io/badge/Resume-F7F8F2?style=for-the-badge&logo=googledrive&logoColor=0A0A0A&labelColor=B8FF00" alt="Resume" />
   </a>
 </p>
 
 <p align="center">
-  <code style="color: #0A0A0A; background-color: #B8FF00;"><b>AI-ENABLED FULL STACK DEVELOPER</b></code>
-  <span style="color: #5F6368;">&nbsp;·&nbsp;</span>
-  <code style="color: #0A0A0A; background-color: #B8FF00;"><b>BACKEND-FIRST</b></code>
-  <span style="color: #5F6368;">&nbsp;·&nbsp;</span>
-  <code style="color: #0A0A0A; background-color: #B8FF00;"><b>MULTI-AGENT SYSTEMS</b></code>
-  <span style="color: #5F6368;">&nbsp;·&nbsp;</span>
-  <code style="color: #0A0A0A; background-color: #B8FF00;"><b>OBSERVABILITY</b></code>
+  <img src="https://img.shields.io/badge/AI--ENABLED%20FULL%20STACK%20DEVELOPER-B8FF00?style=flat-square&labelColor=F7F8F2&color=B8FF00" alt="Role" />
+  <img src="https://img.shields.io/badge/BACKEND--FIRST-B8FF00?style=flat-square&labelColor=F7F8F2&color=B8FF00" alt="Focus" />
+  <img src="https://img.shields.io/badge/MULTI--AGENT%20SYSTEMS-B8FF00?style=flat-square&labelColor=F7F8F2&color=B8FF00" alt="Architecture" />
+  <img src="https://img.shields.io/badge/OBSERVABILITY-B8FF00?style=flat-square&labelColor=F7F8F2&color=B8FF00" alt="Observability" />
 </p>
 
 <h1 align="center">I build full-stack products where the backend does the reasoning.</h1>
@@ -34,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Currently%20Building-B8FF00?style=flat-square&labelColor=0A0A0A&textColor=0A0A0A" alt="Status" />
+  <img src="https://img.shields.io/badge/CURRENTLY%20BUILDING-0A0A0A?style=flat-square&labelColor=B8FF00&color=0A0A0A" alt="Status" />
   <br/>
   <strong>Multi-agent AI ticket triage platform</strong> with BullMQ, Redis, LLM classification, and end-to-end observability.
 </p>
@@ -97,23 +94,23 @@ I help teams build full-stack systems that are fast, reliable, and ready for AI-
 <table>
   <tr>
     <td align="center"><strong>Languages</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=ts,js,sql&theme=dark" alt="Languages" />
+      <img src="https://skillicons.dev/icons?i=ts,js,sql&theme=light" alt="Languages" />
     </td>
     <td align="center"><strong>Frontend</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend technologies" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=light" alt="Frontend technologies" />
     </td>
   </tr>
   <tr>
     <td align="center"><strong>Backend & APIs</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,graphql&theme=dark" alt="Backend and API technologies" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,graphql&theme=light" alt="Backend and API technologies" />
     </td>
     <td align="center"><strong>Databases & Caching</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,redis&theme=dark" alt="Databases and caching" />
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,redis&theme=light" alt="Databases and caching" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center"><strong>DevOps · Deployment</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,linux,vercel&theme=dark" alt="DevOps and deployment tools" />
+      <img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,linux,vercel&theme=light" alt="DevOps and deployment tools" />
     </td>
   </tr>
 </table>
@@ -199,15 +196,15 @@ A retrieval-augmented assistant indexing thousands of document chunks with Postg
 
 <p align="center">
   <a href="https://samir-portfolio-dev.vercel.app/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=B8FF00" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-F7F8F2?style=for-the-badge&logo=vercel&logoColor=0A0A0A&labelColor=B8FF00" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/samirshaikh-dev/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=B8FF00" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-F7F8F2?style=for-the-badge&logo=linkedin&logoColor=0A0A0A&labelColor=B8FF00" alt="LinkedIn" />
   </a>
   <a href="mailto:shaikh.samir.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=B8FF00" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-F7F8F2?style=for-the-badge&logo=gmail&logoColor=0A0A0A&labelColor=B8FF00" alt="Email" />
   </a>
   <a href="https://drive.google.com/file/d/1WGl4JPgT8sdWz-LcdwI3TNzeMgsCbEOr/view?usp=sharing" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Resume-0A0A0A?style=for-the-badge&logo=googledrive&logoColor=B8FF00" alt="Resume" />
+    <img src="https://img.shields.io/badge/Resume-F7F8F2?style=for-the-badge&logo=googledrive&logoColor=0A0A0A&labelColor=B8FF00" alt="Resume" />
   </a>
 </p>
